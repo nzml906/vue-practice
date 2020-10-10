@@ -1,0 +1,51 @@
+.little-dream {
+  
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+    
+    overflow: hidden;
+    
+}
+
+
+// .col-40 {
+//   flex: 0 0 40%;
+//   max-width: 40%;
+
+//   .card {
+//     .card-img-top {
+//       max-width: 420px;
+//       max-height: 492px;
+//     }
+//   }
+// }
+
+// .card {
+//   .tiny-cards {
+//     max-width: 199px;
+//       max-height: 233px;
+//   }
+// }
+
+.vertical-4 {
+  li {
+    list-style: none;
+  }
+
+  img {
+    max-width:158px;
+       max-height: 146px;
+       border: 1px solid #f4f4f4;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+  }
+}
+
+.little-dream {
+  
+  .card-body {
+    background: #f4f4f4;
+    padding: 10% 0;
+  }
+}
